@@ -2,6 +2,7 @@ const {
   discoverMovie,
   getMovieById,
   getMovieByIdFailure
+  
 } = require('../src')
 
 describe('API protocol practice', () => {
